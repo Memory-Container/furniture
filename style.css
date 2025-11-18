@@ -369,7 +369,7 @@ header {
                     }
                 }
             }
-            @media only screen and (max-width: 660px) {
+            @media only screen and (max-width: 1024px) {
                 .card {
                     opacity: 0;
                 }
